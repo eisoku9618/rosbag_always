@@ -1,0 +1,1 @@
+topic_list: [/joint_states /rasensor /lasensor /rfsensor /lfsensor /off_rasensor /off_lasensor /off_rfsensor /off_lfsensor /motor_states/cur_angle /motor_states/motor_current /motor_states/servo_alarm /motor_states_low/motor_outer_temp /motor_states_low/motor_temp /motor_states/ref_angle /imu /tf /motor_states_low/abs_cur_angle_diff]
